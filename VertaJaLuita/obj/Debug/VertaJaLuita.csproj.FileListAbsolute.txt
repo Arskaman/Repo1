@@ -1,0 +1,6 @@
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\bin\Debug\Gladiator.exe.config
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\bin\Debug\Gladiator.exe
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\bin\Debug\Gladiator.pdb
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\VertaJaLuita.csproj.CoreCompileInputs.cache
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\Gladiator.exe
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\Gladiator.pdb

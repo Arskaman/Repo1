@@ -1,0 +1,13 @@
+C:\Users\Arskaman\Desktop\ohjelmistosuunnittelun koulutus\Olio-ohjelmointi\Gladiator\bin\Debug\Gladiator.exe.config
+C:\Users\Arskaman\Desktop\ohjelmistosuunnittelun koulutus\Olio-ohjelmointi\Gladiator\bin\Debug\Gladiator.exe
+C:\Users\Arskaman\Desktop\ohjelmistosuunnittelun koulutus\Olio-ohjelmointi\Gladiator\bin\Debug\Gladiator.pdb
+C:\Users\Arskaman\Desktop\ohjelmistosuunnittelun koulutus\Olio-ohjelmointi\Gladiator\obj\Debug\Gladiator.csprojAssemblyReference.cache
+C:\Users\Arskaman\Desktop\ohjelmistosuunnittelun koulutus\Olio-ohjelmointi\Gladiator\obj\Debug\Gladiator.exe
+C:\Users\Arskaman\Desktop\ohjelmistosuunnittelun koulutus\Olio-ohjelmointi\Gladiator\obj\Debug\Gladiator.pdb
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\bin\Debug\Gladiator.exe.config
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\bin\Debug\Gladiator.exe
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\bin\Debug\Gladiator.pdb
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\Gladiator.csprojAssemblyReference.cache
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\Gladiator.csproj.CoreCompileInputs.cache
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\Gladiator.exe
+M:\Olio-Ohjelmointi\Repo1-master\Gladiator\obj\Debug\Gladiator.pdb
